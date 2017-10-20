@@ -1,0 +1,78 @@
+#css, #ruby, #php, #java, #c, #suggestion, #conclusion {
+  display: none;
+}
+
+#epicodus-showing {
+  display: none;
+  }
+
+#head1picture{
+  height: 200px;
+  width: 900px;
+  margin: 10px;
+}
+
+.clickable {
+  cursor: pointer;
+  color: black;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.boxmodel {
+border: 10px solid lightgrey;
+padding: 4px;
+margin: 4px;
+background-color: #D4E6F1;
+text-align:left;
+}
+
+body {
+  background-color: #EAF2F8;
+  margin-top:100px;
+	margin-right:70px;
+	margin-bottom:10px;
+	margin-left:70px;
+}
+
+h1 {
+  line-height: 100px;
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+  cursor: pointer;
+  color: grey;
+}
+
+h2 {
+    line-height: 100px;
+    font-family: cursive;
+    color: grey;
+    text-align: center;
+}
+
+h3{
+  line-height: 100px;
+  font-family: cursive;
+  color: grey;
+  text-align: left;
+}
+
+p {
+  font-family:inherit;
+  font-size: 18px;
+  font-weight: lighter;
+  cursor: pointer;
+  color: #515A5A;
+  text-align: justify;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  margin: 20px;
+
+}
