@@ -1,6 +1,6 @@
 # Epicodus' track Suggestion WebPage
 
-#### This is a WebPage of to help potential students to find which tract they should choose.
+#### This is a WebPage of to help potential students to find which track they should choose.
 
 #### By Qianqian Hu 2018/01/12
 
