@@ -10,10 +10,8 @@ This website help students of Epicodus to figure out which language they should 
 
 ## Setup/Installation Requirements
 
-* Open with browser
-* Click the button or fill the form
-* Submit the form
-* Suggestion will show on the WebPage
+* Copy repository from GitHub to your computer using Terminal command $ git clone and then open index.html in a browser, or
+* Open [link](https://QIANQIANHU.github.io/track/) in your browser.
 
 ## Technologies Used
 

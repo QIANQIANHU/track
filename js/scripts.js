@@ -25,7 +25,7 @@ $(document).ready(function() {
         $("#suggestion, #php, #conclusion").show();
       }
     } else {
-      alert('Please enter all information.');
+      alert('Please enter all information and in the rignt type.');
       }
 
     event.preventDefault();
